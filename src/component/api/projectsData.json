@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "SolvingHub Web App",
+    "description": "An open-source web app focused on real-world problems, enabling users to discover, discuss, and collaborate on meaningful solutions.",
+    "tech": "Next.js, Tailwind CSS, Firebase, TypeScript, GitHub",
+    "image": "public/solvinghub.png",
+    "previewLink": "https://solvinghub.vercel.app/",
+    "githubLink": "https://github.com/rohitsingh0318"
+  },
+  {
+    "id": 2,
+    "title": "Amazon Showcase Web App",
+    "description": "A user-friendly platform for showcasing products with clean UI, easy navigation, and seamless redirection to Amazon.",
+    "tech": "Next.js, Tailwind CSS, TypeScript, GitHub, Vercel, AOS",
+    "image": "public/amzon1.png",
+    "previewLink": "https://classic-fashion.vercel.app/",
+    "githubLink": "https://github.com/rohitsingh0318"
+  },
+  {
+    "id": 3,
+    "title": "E-commerce Web App",
+    "description": "A high-performance e-commerce platform with user-friendly interface, secure payments, inventory management, and powerful admin dashboard.",
+    "tech": "React.js, Tailwind CSS, JavaScript, MongoDB, Node.js, Express.js ",
+    "image": "public/shopEasy.png",
+    "previewLink": "https://shopeasy-nextjs.vercel.app/",
+    "githubLink": "https://github.com/rohitsingh0318"
+  },
+  {
+    "id": 4,
+    "title": "Admin Dashboard",
+    "description": "A user-friendly admin dashboard featuring charts, metrics, and organized layouts built with static data for demonstration.",
+    "tech": "React.js, Tailwind CSS, JavaScript, Chart.js, ",
+    "image": "public/dashboard.png",
+    "previewLink": "https://dashboard-design-gray.vercel.app/",
+    "githubLink": "https://github.com/rohitsingh0318"
+  },
+  {
+    "id": 5,
+    "title": "Corporate Website Redesign",
+    "description": "A complete overhaul of a legacy corporate website into a modern, responsive, and SEO-optimized digital presence.",
+    "tech": "HTML5, CSS3, JavaScript",
+    "image": "public/construction.png",
+    "previewLink": "https://real-trust-website-blush.vercel.app/",
+    "githubLink": "https://github.com/rohitsingh0318"
+  },
+  {
+    "id": 6,
+    "title": "R3 Labs IT Solution",
+    "description": "A technology-driven IT solutions company specializing in web development, custom software, and digital services, helping startups and businesses build scalable and innovative products.",
+    "tech": "Next.js, Tailwind CSS, TypeScript, Framer Motion, lucide-react",
+    "image": "public/r3labs.png",
+    "previewLink": "#",
+    "githubLink": "https://github.com/rohitsingh0318"
+  }
+]
