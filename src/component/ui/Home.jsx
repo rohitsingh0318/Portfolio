@@ -16,8 +16,8 @@ export default function Home() {
           </div>
           <p>Full Stack Developer skilled in JavaScript, React.js, Node.js, Next.js, MongoDB & modern web technologies. I turn ideas into functional digital products.</p>
           <div className="btn-box">
-            <a href="" className="btn">Hire Me</a>
-            <a href="" className="btn">Let's Talk</a>
+            <a href="" className="btn">View Resume</a>
+            <a href="#contact" className="btn">Let's Talk</a>
           </div>
           <div className="home-sci">
             <a href="https://github.com/rohitsingh0318" target="_blank" rel="noopener noreferrer">
