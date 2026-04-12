@@ -26,7 +26,7 @@ export default function Contact() {
     try {
       await fetch(SCRIPT_URL, {
         method: "POST",
-        mode: "no-cors", // ✅ Google Script ke liye zaroori
+        mode: "no-cors", //  Google Script ke liye zaroori
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(formData),
       });
@@ -48,7 +48,7 @@ export default function Contact() {
           Contact <span>Me!</span>
         </h2>
 
-        {/* ✅ Status Messages */}
+        {/*  Status Messages */}
         {status === "success" && (
           <p style={{ color: "green", textAlign: "center", marginBottom: "1rem" }}>
             ✅ Message sent successfully!
@@ -60,7 +60,7 @@ export default function Contact() {
           </p>
         )}
 
-        <form onSubmit={handleSubmit}> {/* ✅ action="#" hataya, onSubmit lagaya */}
+        <form onSubmit={handleSubmit}> {/*  action="#" hataya, onSubmit lagaya */}
 
           {/* Row 1 */}
           <div className="input-box">
