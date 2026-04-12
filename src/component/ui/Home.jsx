@@ -16,7 +16,7 @@ export default function Home() {
           </div>
           <p>Full Stack Developer skilled in JavaScript, React.js, Node.js, Next.js, MongoDB & modern web technologies. I turn ideas into functional digital products.</p>
           <div className="btn-box">
-            <a href="" className="btn">View Resume</a>
+            <a href="https://drive.google.com/file/d/1FWehIoZAp30IcPQDAu-hcEorDXFwgyxw/view?usp=sharing" target="_blank"  className="btn">View Resume</a>
             <a href="#contact" className="btn">Let's Talk</a>
           </div>
           <div className="home-sci">
@@ -48,7 +48,7 @@ export default function Home() {
         <div className='home-hero-img'>
           <img
             className='img-fluid'
-            src="public\Home_hero.png" alt="" />
+            src="/Home_hero.png" alt="hero_image" />
         </div>
         </Tilt>
 
